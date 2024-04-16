@@ -1,5 +1,4 @@
 from django.urls import path
-
 from three.views import PageAPIView
 
 urlpatterns = [
