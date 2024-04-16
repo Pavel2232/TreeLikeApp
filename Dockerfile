@@ -1,15 +1,15 @@
-FROM python:3.11.6
+FROM python:3.12
 
 WORKDIR /
 
-RUN pip install "poetry==1.3.1"
+RUN pip install "poetry==1.8.2"
 
 
 
 COPY poetry.lock pyproject.toml ./
 
 RUN poetry config virtualenvs.create false \
-    && poetry install --without dev --no-root
+    && poetry install  --no-root
 
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
