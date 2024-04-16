@@ -3,6 +3,7 @@
 **
 
 # except
+!db.json
 !manage.py
 !TreeLikeApp/**
 !three/**
