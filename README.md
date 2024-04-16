@@ -107,4 +107,5 @@ GET /api/pages/?url=/catalog/
 * склонируйте репозиторий ``` git clone https://github.com/Pavel2232/TreeLikeApp  ```
 * заполните .env по аналогии с [.env.example](.env.example)
 * выполните ```docker compose up -d ```
+* сервер будет доступен по адресу ```localhost```
 
