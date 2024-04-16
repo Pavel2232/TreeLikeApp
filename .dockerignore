@@ -1,0 +1,11 @@
+# ignore all
+
+**
+
+# except
+!manage.py
+!TreeLikeApp/**
+!three/**
+!entrypoint.sh
+!poetry.lock
+!pyproject.toml
