@@ -1,4 +1,4 @@
-# ✏️🗒🌳 приложение для управления древовидной структурой страниц на Python, используя Django и DRF | TreeLikeApp | Python, Django, PostgresSQL, DRF, Docker, Nginx
+# ✏️🗒🌳 приложение для управления древовидной структурой страниц | TreeLikeApp | Python, Django, PostgresSQL, DRF, Docker, Nginx
 
 
 ## Суть приложения
